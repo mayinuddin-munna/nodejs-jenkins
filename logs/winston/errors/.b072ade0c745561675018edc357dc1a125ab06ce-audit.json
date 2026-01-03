@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/errors/.b072ade0c745561675018edc357dc1a125ab06ce-audit.json",
+    "files": [
+        {
+            "date": 1750489051601,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/errors/docker-2025-06-21-12-error.log",
+            "hash": "a89d8e837b9f1ae0183bf08c35389d62f775f9a57a96146a8de92bd34652faa3"
+        },
+        {
+            "date": 1750489477087,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/errors/docker-2025-06-21-13-error.log",
+            "hash": "fdfafbe21ac019d6095b11ad9116a92f07811c7ac29e96446a30a732b9df5b28"
+        },
+        {
+            "date": 1750500988283,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/errors/docker-2025-06-21-16-error.log",
+            "hash": "104d3b82fe5ba04d6f7227c315cef8941507f58d1c7e6a3cee91cb151e126622"
+        },
+        {
+            "date": 1750930233995,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/errors/docker-2025-06-26-15-error.log",
+            "hash": "9f36ca3a3d9dcda0c600671ffbb290bf133dfc245414ec6b58a366f5ac9407c6"
+        }
+    ],
+    "hashType": "sha256"
+}

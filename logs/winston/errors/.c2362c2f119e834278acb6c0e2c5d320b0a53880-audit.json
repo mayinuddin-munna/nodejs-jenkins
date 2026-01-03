@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/munna/Projects/docker-node-app/logs/winston/errors/.c2362c2f119e834278acb6c0e2c5d320b0a53880-audit.json",
+    "files": [
+        {
+            "date": 1766462860580,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/errors/docker-2025-12-23-10-error.log",
+            "hash": "8af4f6e7f39d5b04bbd83731be5d3ce68f56cc98efdd010762449cca93509a2b"
+        },
+        {
+            "date": 1766551417572,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/errors/docker-2025-12-24-10-error.log",
+            "hash": "7a44ce1ee944fda0cb5d58cdd4c55be6cb490291d3dea0ad22ef08a394188447"
+        },
+        {
+            "date": 1766559167665,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/errors/docker-2025-12-24-12-error.log",
+            "hash": "068483c61d86319c5e2e6e106a9d826f006dd9d2143a1f2cdb4aaec36b5bbb32"
+        },
+        {
+            "date": 1766565445615,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/errors/docker-2025-12-24-14-error.log",
+            "hash": "2779f247a8fdf8b6c6bd6d3437de1e3799f18a5e2de0cadaaccbbc49e7137620"
+        },
+        {
+            "date": 1767178755658,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/errors/docker-2025-12-31-16-error.log",
+            "hash": "49dcec68f14296b1734de24e8f61d821f8efb32fec02510540bd46a17efd1513"
+        },
+        {
+            "date": 1767412286732,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/errors/docker-2026-01-03-09-error.log",
+            "hash": "e36249cd6ab291c85f95b431c803656793c40ec55f8806cf7b8eae5ef4038cbc"
+        }
+    ],
+    "hashType": "sha256"
+}

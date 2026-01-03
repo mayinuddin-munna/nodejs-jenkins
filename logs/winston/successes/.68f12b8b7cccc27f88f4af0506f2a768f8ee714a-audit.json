@@ -1,0 +1,100 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/.68f12b8b7cccc27f88f4af0506f2a768f8ee714a-audit.json",
+    "files": [
+        {
+            "date": 1750489051598,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-12-57-31-success.log",
+            "hash": "2ff2275794290bbef43f16207155e865ccdc912c251cbe987658ee8c89813dac"
+        },
+        {
+            "date": 1750489103948,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-12-58-23-success.log",
+            "hash": "d2f92911b86fcc6fba92321e64e899a56aa29b0e115834af6063a701c946d3f6"
+        },
+        {
+            "date": 1750489477085,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-13-04-37-success.log",
+            "hash": "c3aba33b11ea3fff05b5403fae33fa2d4abcf815522d8a22e355880081e27dd5"
+        },
+        {
+            "date": 1750489478590,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-13-04-38-success.log",
+            "hash": "bf617cad7c63a0b10cfab2e4ce5ec555faf15acc421c8dbeb2f8dffe294ed7d6"
+        },
+        {
+            "date": 1750500988280,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-16-28-success.log",
+            "hash": "0090f048d32042a724a369415956ae887ccaf7a44bcfdbe5f21fcb4d1ae9d8bd"
+        },
+        {
+            "date": 1750500990105,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-16-30-success.log",
+            "hash": "e0e7170ad6f5158f70ae76786c228ffc7ff8760a0cdacedaf41565b1c9a99580"
+        },
+        {
+            "date": 1750501183167,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-19-43-success.log",
+            "hash": "3cac0762a5dd0356053e80d3637043f0ae1bea75851f1f70f6e95183c49d6c66"
+        },
+        {
+            "date": 1750501184606,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-19-44-success.log",
+            "hash": "1089edcd7e6229a65818aa7216e70d23d542a144f6f7a470d80d3499c466f581"
+        },
+        {
+            "date": 1750501216104,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-20-16-success.log",
+            "hash": "b60d82c7ff9c16ef1f55f412ab2fe8b9510855273a907715eb1e4c29afab4566"
+        },
+        {
+            "date": 1750501236807,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-20-36-success.log",
+            "hash": "c24ce2d475bdb66ab5b2f18df19de4a935c249260a1ec815c1958c6f6a30b9f6"
+        },
+        {
+            "date": 1750501237411,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-20-37-success.log",
+            "hash": "2bc338d20616578334ed82eee8698a243c751fadbacbd9d4e4586220d0f59e1e"
+        },
+        {
+            "date": 1750502589127,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-43-09-success.log",
+            "hash": "1c8b8ef92c44c3c37362fdd93af76bf39ae05bcefa3a47813713f02da7d276cc"
+        },
+        {
+            "date": 1750502590928,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-43-10-success.log",
+            "hash": "9f900ff39b94f8f5540366ba57266ec1c8dd9f7743fbbbc64fc909d20fba4a1e"
+        },
+        {
+            "date": 1750502691062,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-44-51-success.log",
+            "hash": "8bcb039dfbe663e31bae937b1a3a703d14258f76ce3dfd650059d4ade4135bac"
+        },
+        {
+            "date": 1750502692438,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-44-52-success.log",
+            "hash": "574281bf3b59f7bc92132d5b2ef46fb566063665724678555cc3e98f62c97e97"
+        },
+        {
+            "date": 1750502737071,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-21-16-45-37-success.log",
+            "hash": "771caf62f088ff8f34d0ffc8074f7e126685ca246ca3e2ac3397de06c3896556"
+        },
+        {
+            "date": 1750930233991,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-26-15-30-33-success.log",
+            "hash": "f2a8f94652ae346388f923357750afe1e5280143dd9d2a30f854508f985ed3dd"
+        },
+        {
+            "date": 1750930264824,
+            "name": "/home/munna/Web Dev/Docker/docker-with-typescript-backend-module-4/logs/winston/successes/docker-2025-06-26-15-31-04-success.log",
+            "hash": "4e4193d3c078578785358062360f70b9a6cbce8ce1e9e6db5bd10e761de29e28"
+        }
+    ],
+    "hashType": "sha256"
+}

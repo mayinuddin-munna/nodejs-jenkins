@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/munna/Projects/docker-node-app/logs/winston/successes/.115d9f9887642a6f5655dada4b025bac83910323-audit.json",
+    "files": [
+        {
+            "date": 1766462860578,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-23-10-07-40-success.log",
+            "hash": "ea04803038ebc13cae252a8e078226bb173bb6db057811ff449172f50da138c7"
+        },
+        {
+            "date": 1766462861340,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-23-10-07-41-success.log",
+            "hash": "7ccdbecec1fd1e97f75a37b5910415a143438e2e1be3358f6131473507beb640"
+        },
+        {
+            "date": 1766551417569,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-24-10-43-37-success.log",
+            "hash": "6e4466acf25736faedf60d53161b7ef9298dcd7da864c2e8d8cb4a1df710e6dc"
+        },
+        {
+            "date": 1766551418386,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-24-10-43-38-success.log",
+            "hash": "b056817324d1ef4b43b37d7610ad99dcfec462dbf5d010a10151f579ab0e7e34"
+        },
+        {
+            "date": 1766559167663,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-24-12-52-47-success.log",
+            "hash": "caf299da0b0923219e35196e348b34691d30b97441226c657cdfee0867d89da3"
+        },
+        {
+            "date": 1766559168415,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-24-12-52-48-success.log",
+            "hash": "74adb82121770f3df1ecc21d35818c05c28df6bcefc1115eaa9328a541aa39cf"
+        },
+        {
+            "date": 1766565445613,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-24-14-37-25-success.log",
+            "hash": "c1e46e25ee0262fb527bd2c2aa3c54d11c9aadea3d2970c8c2e5bbec20384e5c"
+        },
+        {
+            "date": 1766565446401,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-24-14-37-26-success.log",
+            "hash": "54b48044b5c371eaab94defacd0f27a37e1bad14ea7079f9c43c80c4d3176029"
+        },
+        {
+            "date": 1766566689617,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-24-14-58-09-success.log",
+            "hash": "9ef3ab2d8ceee661c26c72495c6860493747e36b5740f9683aa0efb7944557d2"
+        },
+        {
+            "date": 1766566690357,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-24-14-58-10-success.log",
+            "hash": "4d91ae2845a311076ef787ad65f6820dc13ec35927de6d69ca7945afca9e1b1e"
+        },
+        {
+            "date": 1767178755656,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-31-16-59-15-success.log",
+            "hash": "2a2e0d311afff69d9e62590c5c3bc8e4db2a60c8b51a6b26b351559ffbb36443"
+        },
+        {
+            "date": 1767178756380,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2025-12-31-16-59-16-success.log",
+            "hash": "f9844e602a8699048135d97fd8fc06975ad513ace309a12808894d211e34fee9"
+        },
+        {
+            "date": 1767412286730,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2026-01-03-09-51-26-success.log",
+            "hash": "3c56cc8286e3b7f442d4ae4ee93700a02c6f7995139e523bdfff4d7fb5656780"
+        },
+        {
+            "date": 1767412287354,
+            "name": "/home/munna/Projects/docker-node-app/logs/winston/successes/docker-2026-01-03-09-51-27-success.log",
+            "hash": "94c5079c159cb6d18bdd0dc78ffdbf65873e224974e9a68c223338f9ef493870"
+        }
+    ],
+    "hashType": "sha256"
+}
