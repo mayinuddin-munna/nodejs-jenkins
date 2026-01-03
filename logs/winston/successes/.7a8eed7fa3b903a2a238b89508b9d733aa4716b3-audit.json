@@ -14,6 +14,11 @@
             "date": 1767414918392,
             "name": "/home/munna/Projects/nodejs-jenkins/logs/winston/successes/docker-2026-01-03-10-35-18-success.log",
             "hash": "f892fe8f566731472233f07d7a966667618fbc2fb85a22813ff20f8ae6e491e9"
+        },
+        {
+            "date": 1767415098095,
+            "name": "/home/munna/Projects/nodejs-jenkins/logs/winston/successes/docker-2026-01-03-10-38-18-success.log",
+            "hash": "09e45dda309c546750390c842c856dd7e78e4f389e6ccd67ed7d937acc0d9e35"
         }
     ],
     "hashType": "sha256"
