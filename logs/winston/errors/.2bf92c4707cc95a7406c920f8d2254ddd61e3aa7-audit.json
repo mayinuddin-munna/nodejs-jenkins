@@ -9,6 +9,11 @@
             "date": 1767783496585,
             "name": "/home/munna/DevOps/Projects/nodejs-jenkins/logs/winston/errors/docker-2026-01-07-16-error.log",
             "hash": "3668e44aab53ff2388988d7d4ec45339ad6ce115f0151713b3c7f27adb60a066"
+        },
+        {
+            "date": 1768021939331,
+            "name": "/home/munna/DevOps/Projects/nodejs-jenkins/logs/winston/errors/docker-2026-01-10-11-error.log",
+            "hash": "26528cb838faf66847dd06fb1b30b528eee0ad06db354642c9fbf0a72996d24a"
         }
     ],
     "hashType": "sha256"

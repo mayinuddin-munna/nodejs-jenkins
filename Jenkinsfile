@@ -5,8 +5,6 @@ pipeline {
         APP_NAME = "nodejs-jenkins"
         APP_DIR  = "/var/www/nodejs-jenkins"
         NODE_ENV = "production"
-        SSH_USER = "ubuntu"
-        SSH_HOST = "16.112.113.14"
     }
 
     stages {
@@ -20,7 +18,7 @@ pipeline {
 
         stage('Install Dependencies') {
             steps {
-                sh 'npm ci'
+                sh 'npm install'
             }
         }
 
@@ -34,37 +32,23 @@ pipeline {
             steps {
                 sshagent(['vm-ssh-key']) {
                     sh """
-                    ssh -o StrictHostKeyChecking=no ${SSH_USER}@${SSH_HOST} '
+                    ssh -o StrictHostKeyChecking=no ubuntu@YOUR_VM_IP '
                         mkdir -p ${APP_DIR}
                     '
 
-                    rsync -az --delete \
-                        dist \
-                        package.json \
-                        package-lock.json \
-                        ecosystem.config.js \
-                        .env \
-                        ${SSH_USER}@${SSH_HOST}:${APP_DIR}/
+                    rsync -av --delete \
+                        dist package.json package-lock.json ecosystem.config.js .env \
+                        ubuntu@YOUR_VM_IP:${APP_DIR}/
 
-                    ssh ${SSH_USER}@${SSH_HOST} '
+                    ssh ubuntu@YOUR_VM_IP '
                         cd ${APP_DIR}
-                        export NODE_ENV=${NODE_ENV}
-                        npm ci --omit=dev
-                        pm2 start ecosystem.config.js --env production || pm2 restart ${APP_NAME}
+                        npm install --production
+                        pm2 start dist/server.js --name ${APP_NAME} || pm2 restart ${APP_NAME}
                         pm2 save
                     '
                     """
                 }
             }
-        }
-    }
-
-    post {
-        success {
-            echo "Deployment completed successfully"
-        }
-        failure {
-            echo "Deployment failed"
         }
     }
 }
