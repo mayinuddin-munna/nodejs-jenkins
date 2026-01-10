@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/munna/DevOps/Projects/nodejs-jenkins/logs/winston/errors/.2bf92c4707cc95a7406c920f8d2254ddd61e3aa7-audit.json",
+    "files": [
+        {
+            "date": 1767783496585,
+            "name": "/home/munna/DevOps/Projects/nodejs-jenkins/logs/winston/errors/docker-2026-01-07-16-error.log",
+            "hash": "3668e44aab53ff2388988d7d4ec45339ad6ce115f0151713b3c7f27adb60a066"
+        }
+    ],
+    "hashType": "sha256"
+}

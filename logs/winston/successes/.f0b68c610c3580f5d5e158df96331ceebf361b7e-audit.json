@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/munna/DevOps/Projects/nodejs-jenkins/logs/winston/successes/.f0b68c610c3580f5d5e158df96331ceebf361b7e-audit.json",
+    "files": [
+        {
+            "date": 1767783496583,
+            "name": "/home/munna/DevOps/Projects/nodejs-jenkins/logs/winston/successes/docker-2026-01-07-16-58-16-success.log",
+            "hash": "ddf10b23a533d1c6fa68b74f0ed77cead64617568035ae8094755716cfd0d64d"
+        },
+        {
+            "date": 1767783497360,
+            "name": "/home/munna/DevOps/Projects/nodejs-jenkins/logs/winston/successes/docker-2026-01-07-16-58-17-success.log",
+            "hash": "865439429264c2cb52b5ad1591162f0c356b004821afab0e49f05fccf8a8c714"
+        }
+    ],
+    "hashType": "sha256"
+}
